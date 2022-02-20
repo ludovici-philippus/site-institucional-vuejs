@@ -1,9 +1,7 @@
 <template>
     <main>
         <Sobre/>
-        <section class="mais-informacoes">
-
-        </section>
+        <MaisInformacoes/> 
         <section class="contato">
 
         </section>
@@ -12,10 +10,12 @@
 
 <script>
 import Sobre from "./Sobre.vue";
+import MaisInformacoes from "./MaisInformacoes.vue";
 export default{
     name: "Main",
     components:{
-        Sobre
+        Sobre,
+        MaisInformacoes
     }
 }
 </script>
