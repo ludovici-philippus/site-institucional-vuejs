@@ -5,9 +5,6 @@
             <div class="content__logo">
                 <router-link to="/"><h1>Empresa</h1></router-link> 
             </div>
-            <nav class="desktop">
-
-            </nav>
         </div>
     </header>
 </template>
