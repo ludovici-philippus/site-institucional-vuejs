@@ -2,20 +2,20 @@
     <main>
         <Sobre/>
         <MaisInformacoes/> 
-        <section class="contato">
-
-        </section>
+        <Contato/>
     </main>
 </template>
 
 <script>
 import Sobre from "./Sobre.vue";
 import MaisInformacoes from "./MaisInformacoes.vue";
+import Contato from "./Contato.vue";
 export default{
     name: "Main",
     components:{
         Sobre,
-        MaisInformacoes
+        MaisInformacoes,
+        Contato
     }
 }
 </script>

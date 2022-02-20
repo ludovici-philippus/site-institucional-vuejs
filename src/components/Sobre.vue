@@ -28,6 +28,10 @@ name: "Sobre"
 </script>
 
 <style scoped>
+
+.sobre{
+    margin-top: 20px;
+}
 h2{
 font-size: 32px;
 border-bottom: 1px solid #333;

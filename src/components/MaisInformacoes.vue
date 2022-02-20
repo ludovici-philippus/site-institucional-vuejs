@@ -22,6 +22,11 @@ name: "MaisInformações"
 </script>
 
 <style scoped>
+.mais_info{
+
+margin-top: 20px;
+}
+
 img{
 width: 100%;
 text-align: center;
