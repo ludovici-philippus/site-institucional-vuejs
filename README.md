@@ -1,4 +1,6 @@
 # site_institucional
+![image](https://user-images.githubusercontent.com/37634205/154864236-f2d3133b-9e67-4699-b9a0-b119ad167a9d.png)
+
 
 ## Project setup
 ```
